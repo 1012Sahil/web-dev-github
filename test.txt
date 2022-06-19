@@ -1,4 +1,4 @@
-Using git for the first time!
+Using git to learn merging time!
 
 
 Let's learn more!
